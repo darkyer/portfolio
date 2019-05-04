@@ -747,7 +747,13 @@ img.svg{
 .edina_tm_services_wrap .service_icon .svg{
 	width: 40px;
 	height: 40px;
-	color: #ed2629;
+	color: #ed2629 !important;
+	fill: #ed2629 !important;
+}
+
+.edina_tm_services_wrap .service_icon .svg path{
+	color: #ed2629 !important;
+	fill: #ed2629 !important;
 }
 .edina_tm_services_wrap ul.total .inner_list span{position: absolute;}
 .edina_tm_services_wrap ul.total .inner_list .first{
