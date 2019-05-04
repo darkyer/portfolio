@@ -526,6 +526,10 @@ img.svg{
 /*	06) EDINA ABOUT
 /*---------------------------------------------------*/
 
+#about{
+	background-color: #060606;
+}
+
 .edina_tm_about_wrap{
 	width: 100%;
 	height: auto;
@@ -654,7 +658,7 @@ img.svg{
 	clear: both;
 	float: left;
 	text-align: center;
-	background-color: #060606;
+	/* background-color: #060606; */
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -1073,8 +1077,9 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #000;
-	margin-bottom: 70px;
+	/* background-color: #000; */
+	background-color: #060606;
+	/* margin-bottom: 70px; */
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -1092,7 +1097,7 @@ img.svg{
 	background-color: #060606;
     border-radius: 3px;
 }
-.edina_tm_news_wrap .definitions_wrap{padding: 40px 30px 47px 30px; height: 300px}
+.edina_tm_news_wrap .definitions_wrap{padding: 40px 30px 47px 30px; height: 300px; background-color: black;}
 .edina_tm_news_wrap .image_wrap{position: relative;}
 .edina_tm_news_wrap .image_wrap .big{display: none;}
 .edina_tm_news_wrap .image_wrap .small{display: block;}
