@@ -671,6 +671,7 @@ img.svg{
 	float: left;
 	text-align: center;
 	padding-bottom: 23px;
+	margin-top:80px;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
