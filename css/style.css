@@ -1,4 +1,18 @@
 @charset "utf-8";
+
+/*---------------------------------------------------*/
+/*	00) CUSTOM MODS
+/*---------------------------------------------------*/
+.github-link {
+	text-decoration: none;
+	color: #ed2629;
+}
+
+.github-link:visited {
+	text-decoration: none;
+	color: #ed2629;
+}
+
 /*
 /*	Copyright (c) 2018 Marketify
 /*	Author: Marketify
