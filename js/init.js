@@ -481,7 +481,7 @@ function edina_tm_popup_blog(){
 		
 		mainImage.css({backgroundImage: 'url('+imgData+')'});
 		button.on('click',function(){
-			popupBox.addClass('opened');
+			// popupBox.addClass('opened');
 			popupInner.html(html);
 			mainImage = popupInner.find('.news_image');
 			mainImage.css({backgroundImage: 'url('+imgData+')'});
