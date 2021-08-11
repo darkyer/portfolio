@@ -1737,10 +1737,14 @@ img.svg{
 @media (max-width: 1400px) {
 	.edina_tm_to_top_wrap{position: relative;float: right;bottom: 61px;}
 	.edina_tm_to_top_wrap.opened{bottom: 61px;}
+	.edina_tm_list_wrap[data-space="30"] ul.total > li{ margin-bottom: 60px;}
+	.portfolio_btn a {margin-bottom: 10px;}
 }
 @media (max-width: 1200px) {
 	.edina_tm_about_wrap .rightbox{padding: 0px 70px 0px 0px;}
 	.edina_tm_list_wrap[data-column="5"] ul.total > li{width: 25%;}
+	.portfolio_btn a {margin-bottom: 10px;}
+	.edina_tm_list_wrap[data-space="30"] ul.total > li{ margin-bottom: 60px;}
 }
 @media (max-width: 1040px) {
 	.edina_tm_trigger{display: block;}
@@ -1749,6 +1753,8 @@ img.svg{
 	.edina_tm_navigation_wrap{padding: 30px 0px;background-color: rgba(0,0,0,.95);}
 	.edina_tm_list_wrap[data-column="4"] ul.total > li{width: 33.3333%;}
 	.edina_tm_list_wrap[data-column="5"] ul.total > li{width: 33.3333%;}
+	.edina_tm_list_wrap[data-space="30"] ul.total > li{ margin-bottom: 80px;}
+	.portfolio_btn a {margin-bottom: 10px;}
 	.edina_tm_about_wrap .rightbox{padding: 0px 50px 0px 0px;}
 	.edina_tm_hero_header .hero_title .first{font-size: 42px;}
 	.edina_tm_universal_box_wrap .hero_title.homepage_third h3{font-size: 42px;}
@@ -1765,6 +1771,8 @@ img.svg{
 	.edina_tm_list_wrap[data-column="3"] ul.total > li{width: 50%;}
 	.edina_tm_list_wrap[data-column="4"] ul.total > li{width: 50%;}
 	.edina_tm_list_wrap[data-column="5"] ul.total > li{width: 50%;}
+	.portfolio_btn a {margin-bottom: 10px;}
+	.edina_tm_list_wrap[data-space="30"] ul.total > li{ margin-bottom: 60px;}
 	.edina_tm_portfolio_filter li{margin: 0px 15px 0px 0px;}
 	.edina_tm_portfolio_list > li{width: 50%;}
 	.edina_tm_contact_wrap .short_contact ul li{width: 100%;margin-bottom: 20px;}
@@ -1787,6 +1795,7 @@ img.svg{
 	.edina_tm_list_wrap[data-column="3"] ul.total > li{width: 100%;}
 	.edina_tm_list_wrap[data-column="4"] ul.total > li{width: 100%;}
 	.edina_tm_list_wrap[data-column="5"] ul.total > li{width: 100%;}
+	.portfolio_btn a {margin-bottom: 10px;}
 	.edina_tm_portfolio_list{margin-left: 0px;}
 	.edina_tm_portfolio_list > li{width: 100%;padding-left: 0px;}
 	.edina_tm_to_top_wrap{right: 0px;}
