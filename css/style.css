@@ -1201,6 +1201,11 @@ img.svg {
 	color: #fff;
 }
 
+.edina_tm_services_wrap .service_title h5 {
+	font-size: 20px;
+	color: #8b8b8b;
+}
+
 .edina_tm_services_wrap .service_definition p {
 	color: #eee;
 }
