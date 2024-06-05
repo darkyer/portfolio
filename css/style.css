@@ -790,7 +790,7 @@ img.svg {
 
 .edina_tm_about_wrap .leftbox {
 	width: 35%;
-	float: right;
+	float: right;edina_tm_services_total_wrap
 	height: auto;
 	position: absolute;
 	top: 0px;
@@ -1556,7 +1556,7 @@ img.svg {
 	clear: both;
 	float: left;
 	/* background-color: #000; */
-	background-color: #060606;
+	background-color: #1a1a1a;
 	/* margin-bottom: 70px; */
 
 	-webkit-box-sizing: border-box;
@@ -1577,12 +1577,12 @@ img.svg {
 }
 
 .edina_tm_news_wrap .edina_tm_list_wrap .inner_list {
-	background-color: #060606;
+	/*background-color: #060606;*/
 	border-radius: 3px;
 }
 
 .edina_tm_news_wrap .definitions_wrap {
-	padding: 40px 30px 47px 30px;
+	padding: 40px 30px 67px 30px;
 	height: 300px;
 	background-color: black;
 }

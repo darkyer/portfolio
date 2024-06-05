@@ -452,8 +452,8 @@ function edina_tm_animate_text(){
 	var animateSpan			= jQuery('.edina_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["WEB DEVELOPER", "VIDEO GAME DEVELOPER", "DESIGN"],
-			loop: true,
+			strings: ["UNITY DEVELOPER"],
+			loop: false,
 			startDelay: 1e3,
 			backDelay: 2e3
 		});
