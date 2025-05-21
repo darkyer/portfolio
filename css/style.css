@@ -1582,7 +1582,7 @@ img.svg {
 }
 
 .edina_tm_news_wrap .definitions_wrap {
-	padding: 40px 30px 67px 30px;
+	padding: 15px 20px 67px 20px;
 	height: 300px;
 	background-color: black;
 }
@@ -1665,7 +1665,7 @@ img.svg {
 .edina_tm_news_wrap .title_holder h3 a {
 	text-decoration: none;
 	color: #fff;
-	font-size: 22px;
+	font-size: 19px;
 	display: block;
 
 	-webkit-transition: all .3s ease;
